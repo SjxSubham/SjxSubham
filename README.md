@@ -1,16 +1,21 @@
-<h1 align="center">Hello folks, I'm Subham Mondal</h1>
+<h1 align="center">Hello 👋, I'm Subham Mondal</h1>
 <h3 align="center">A passionate software programming learner from India</h3>
 
-- 🌱 I’m currently learning **Advanced DSA**
+- 🔭 I’m currently working on **Student Data Management System in C++**
+
+- 🌱 I’m currently learning **Non-Linear DSA**
 
 - 💬 Ask me about **C, C++**
 
 - 📫 How to reach me **sjxsubham@gmail.com**
 
+- ⚡ Fun fact **I think i,m Creative**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/subham_jack_xons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subham_jack_xons" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@arijitiansjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arijitiansjx" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sjx_subham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjx_subham" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@sjxsuincr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@sjxsuincr" height="30" width="40" /></a>
 <a href="https://discord.gg/sjx7046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sjx7046" height="30" width="40" /></a>
 </p>
