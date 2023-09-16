@@ -1,4 +1,4 @@
-<img align="top" alt="Coding width="500" src="https://i.pinimg.com/originals/77/54/68/775468619813188b4a5c3d127e034e8b.jpg">
+<img align="top" alt="Coding" width="500" src="https://i.pinimg.com/originals/77/54/68/775468619813188b4a5c3d127e034e8b.jpg">
 <h1 align="center">Hi folks👋, I'm Subham Mondal</h1>
 <h3 align="center">A passionate software programming learner from India</h3>
 
