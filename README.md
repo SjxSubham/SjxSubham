@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/subham/Downloads/765f8ce020cfe01a6bca659f96f39e74%20(1).jpg]
+[![MasterHead](file:///C:/Users/subham/Downloads/765f8ce020cfe01a6bca659f96f39e74%20(1).jpg)]
 <h1 align="center">Hi folks👋, I'm Subham Mondal</h1>
 <h3 align="center">A passionate software programming learner from India</h3>
 
