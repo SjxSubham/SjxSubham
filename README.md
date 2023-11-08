@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Student Data Management System in C++**
 
-- 🌱 I’m currently learning **Non-Linear DSA**,**Javascript**
+- 🌱 I’m currently learning **Non-Linear DSA**, **Javascript**
 
 - 💬 Ask me about **C, C++**
 
