@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Student Data Management System in C++**
 
-- 🌱 I’m currently learning **Non-Linear DSA**, **Javascript**
+- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Javascript**
 
 - 💬 Ask me about **C, C++**
 
 - 📫 How to reach me **sjxsubham@gmail.com**
 
-- ⚡ Fun fact **I think i,m Creative**
+- ⚡ Fun fact **I Prefer Leetcode >> Hackerrank**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
