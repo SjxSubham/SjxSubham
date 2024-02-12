@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Student Data Management System in C++**
 
-- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Javascript**
+- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Javascript** , **React JS**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++, Javascript**
 
 - 📫 How to reach me **sjxsubham@gmail.com**
 
