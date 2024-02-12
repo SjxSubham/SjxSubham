@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Student Data Management System in C++**
 
-- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Javascript** , **React JS**
+- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Javascript** , **Node JS**
 
 - 💬 Ask me about **C, C++, Javascript**
 
