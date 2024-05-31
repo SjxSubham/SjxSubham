@@ -29,5 +29,5 @@
 ## Open Source 
 [![An image of @sjxsubham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sjxsubham)](https://holopin.io/@sjxsubham)
 
-<!-- ### Github Stats -->
-<!-- ![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight) -->
+### Github Stats
+![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight)
