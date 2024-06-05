@@ -31,3 +31,4 @@
 
 ### Github Stats
 ![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight)
+project built in DJANGOframework
