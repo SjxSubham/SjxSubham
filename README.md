@@ -31,4 +31,6 @@
 
 ### Github Stats
 ![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight)
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamengine&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
 
