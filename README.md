@@ -39,4 +39,4 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&theme=tokyonight&style=curve&text-decoration" alt="sjxsubham" /> </p>
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p>
+<!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> --!>
