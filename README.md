@@ -20,7 +20,7 @@
 <a href="https://www.hackerrank.com/profile/arijitiansjx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arijitiansjx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sjx_subham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sjx_subham" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/sjxsuincr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@sjxsuincr" height="30" width="40" /></a>
-<a href="https://discord.gg/sjx7046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sjx7046" height="30" width="40" /></a><a href="https://twitter.com/sjxsubham4249" target="blank"><img src="https://img.shields.io/twitter/follow/sjxsubham4249?logo=twitter&style=for-the-badge" alt="sjxsubham4249" /></a>
+<a href="https://discord.gg/sjx7046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sjx7046" height="30" width="40" /></a><a href="https://twitter.com/sjxsubham4249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sjxsubham4249" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
