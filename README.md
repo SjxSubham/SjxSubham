@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi folks👋, I'm Subham Mondal</h1>
 <h3 align="center">A passionate software programming learner from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/6d/57/186d57a5e8a1aa9783640e1660978496.jpg">
 
 
