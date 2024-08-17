@@ -33,13 +33,13 @@
 
 
 ### Github Stats
-![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight)
+![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)
 
-<p><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxsubham&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></p>
+<p>
+  <div><img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxsubham&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /></div></p>
 
 
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&theme=tokyonight&style=color: #f2cf4a&text-decoration" alt="sjxsubham" /> </p>
