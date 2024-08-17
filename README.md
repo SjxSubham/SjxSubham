@@ -51,7 +51,7 @@
 
 
 <details><summary> <b align="center"> Leetcode Info</b></summary>
-<div align="left">  
+<div align="center">  
   <img  align=top flex-grow=1 style="margin-right: 30px" src="https://leetcard.jacoblin.cool/Sjx_Subham?theme=dark&font=Arial&ext=heatmap" />  
 </div>
 
