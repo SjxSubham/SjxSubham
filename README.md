@@ -50,9 +50,9 @@
 ![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
 
 
-<details><summary> <h2 align="center">Leetcode Info<h2></summary>
+<details><summary> <h2 align="center"> Leetcode Info </h2></summary>
 <p align="left">
-  <a href="https://leetcode.com/Sjx_Subham/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  
   <a href="https://leetcode.com/Sjx_Subham/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 
 <div>  
@@ -61,4 +61,5 @@
 </p>
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
 <!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> --!>
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjxsubham&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sjxsubham" /> --!>github-compact
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjxsubham&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sjxsubham" /> github-compact
+--!>
