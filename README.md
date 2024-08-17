@@ -51,8 +51,13 @@
 
 
 <details><summary> <b align="center"> Leetcode Info</b></summary>
-<div align="center">  
-  <img  align=top flex-grow=1 style="margin-right: 30px" src="https://leetcard.jacoblin.cool/Sjx_Subham?theme=dark&font=Arial&ext=heatmap" />  
+<div align="center">
+  <dl>
+    <dd>
+    
+  <img  align=top flex-grow=1 style="margin-right: 50px" src="https://leetcard.jacoblin.cool/Sjx_Subham?theme=dark&font=Arial&ext=heatmap" />  
+    </dd>
+  </dl>   
 </div>
 
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
