@@ -47,8 +47,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&theme=tokyonight&style=color: #f2cf4a&text-decoration" alt="sjxsubham" /> </p>
 
-![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=github-compact&bg_color=282C35)
+![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=tokyonight&bg_color=282C35)
 
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
 <!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> --!>
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjxsubham&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sjxsubham" /> --!>
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjxsubham&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sjxsubham" /> --!>github-compact
