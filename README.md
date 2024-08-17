@@ -50,9 +50,9 @@
 ![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
 
 
-<details><summary> <h2 align="center"> Leetcode Info </h2></summary>
-<div align="left" style="margin-right: 30px;>  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Sjx_Subham?theme=dark&font=Arial&ext=heatmap" />  
+<details><summary> <h2 align="center"> Leetcode Info<h2></summary>
+<div align="left">  
+  <img  align=top flex-grow=1 style="margin-right: 30px" src="https://leetcard.jacoblin.cool/Sjx_Subham?theme=dark&font=Arial&ext=heatmap" />  
 </div>
 
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
