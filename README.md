@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sjxsubham@gmail.com**
 
-- ⚡ Fun fact **I Prefer Leetcode >> Hackerrank**
+- ⚡ Fun fact **I Prefer Leetcode >> any other CP Platform**
 <td></td>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
