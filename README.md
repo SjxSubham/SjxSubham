@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Building My Own Leetcode**
 
-- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Javascript** , **Node JS**
+- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Typescript** , **Next JS**
 
-- 💬 Ask me about **C, C++, Javascript**
+- 💬 Ask me about **C, C++, Javascript, Python**
 
 - 📫 How to reach me **sjxsubham@gmail.com**
 
