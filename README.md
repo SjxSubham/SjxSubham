@@ -50,9 +50,9 @@
 ![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
 
 
-
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=react" alt="sjxsubham" /></a> </p>
 
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
-<!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> --!>
+<!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=react" alt="sjxsubham" /></a> </p> --!>
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjxsubham&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sjxsubham" /> github-compact
 --!>
