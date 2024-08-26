@@ -40,9 +40,7 @@
     
   ![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)  
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxsubham&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjxsubham&theme=react"/>
-</p>
+  
   </div></p>
 
 
@@ -68,6 +66,10 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p>
 
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
-<!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=react" alt="sjxsubham" /></a> </p> --!>
+<!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=react" alt="sjxsubham" /></a> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjxsubham&theme=react"/>
+</p>
+</p> --!>
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjxsubham&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sjxsubham" /> github-compact
 --!>
