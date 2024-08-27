@@ -51,19 +51,8 @@
 
 ![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
 
-<dl>
-    <dd>
-<details><summary> <b align="center"> Leetcode Info</b></summary>
-    <P>
-<div align="center">
-  
-<a href="https://www.leetcode.com/sjx_subham" target="blank">
-  <img  align=top flex-grow=1 style="margin-right: 50px" src="https://leetcard.jacoblin.cool/Sjx_Subham?theme=dark&font=Arial&ext=heatmap" />  
-     </P>
-</div>
-   </dd>
-</dl> 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p>
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> -->
 
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
 <!-- <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=react" alt="sjxsubham" /></a> 
