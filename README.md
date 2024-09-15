@@ -2,11 +2,11 @@
 <h1 align="center">Hi folks👋, I'm Subham Mondal</h1>
 <h3 align="center">A passionate software programming learner from India</h3>
 
-<table>
-<th>
+
 <img align="right" alt="Coding" width="400" style="float: right margin-right: 10px" src="https://i.pinimg.com/originals/18/6d/57/186d57a5e8a1aa9783640e1660978496.jpg">
 
-
+<th>
+  
 - 🔭 I’m currently working on **Building My Own Leetcode**
 
 - 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Typescript** , **Next JS**
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I Prefer Leetcode >> any other CP Platform**
 </th>
-</table>
+
 <td></td>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
