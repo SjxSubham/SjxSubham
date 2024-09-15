@@ -36,8 +36,9 @@
 ### Github Stats
 
 
-<table>
+
   <div align=center>
+    <table>
     <thead>
     
   
@@ -48,8 +49,10 @@
     
   </th>
   </thead>
-  </div>
   </table>
+  
+  </div>
+  
 
 
 
