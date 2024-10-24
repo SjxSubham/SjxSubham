@@ -47,8 +47,11 @@
   ![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)  
   
   <th>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxsubham&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxsubham&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     
+  </th>
+  <th>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=sjxsubham)](https://git.io/streak-stats)
   </th>
   </thead>
   </table>
