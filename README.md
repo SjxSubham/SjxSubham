@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi folks👋, I'm Subham Mondal</h1>
+<h1 align="center">Hi folks <img align="center" src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"/>, I'm Subham Mondal</h1>
 <h3 align="center">A passionate software programming learner from India</h3>
 
 
