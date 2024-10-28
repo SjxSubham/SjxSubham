@@ -35,6 +35,7 @@
 ## Open Source 
 [![An image of @sjxsubham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sjxsubham)](https://holopin.io/@sjxsubham)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### Github Stats
 
