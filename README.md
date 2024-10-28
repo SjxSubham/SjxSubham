@@ -70,7 +70,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&theme=tokyonight&style=color: #f2cf4a&text-decoration" alt="sjxsubham" /> </p>
 
 ![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> -->
 
