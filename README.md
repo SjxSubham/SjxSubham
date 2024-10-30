@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi folks <img align="center" src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"/>, I'm Subham Mondal</h1>
-<a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Outfit&duration=3000&pause=20000&color=50dfdf&width=500&lines=&nbsp;&nbsp;&nbsp;A+passionate+software+programming+learner+from+India;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" alt="Typing SVG" style="height:50px;width:100%;align-items:center;"/></a>
+<a href="https://sjxsubham.github.io/Slider/" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Outfit&duration=3000&pause=20000&color=50dfdf&width=500&lines=&nbsp;&nbsp;&nbsp;A+passionate+software+programming+learner+from+India;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" alt="Typing SVG" style="height:50px;width:100%;align-items:center;"/></a>
 <!-- <h3 align="center">A passionate software programming learner from India</h3> -->
 
 
