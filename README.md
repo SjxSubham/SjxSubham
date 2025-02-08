@@ -35,7 +35,7 @@
 ## Open Source 
 [![An image of @sjxsubham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sjxsubham)](https://holopin.io/@sjxsubham)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1925" />
 
 ### Github Stats
 
@@ -55,13 +55,15 @@
   <th>
     <img width=325 align="center" src="https://streak-stats.demolab.com/?user=sjxsubham&theme=react" href="https://git.io/streak-stats" alt="contribution" />
   </th>
-   <tr>
-         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sjxsubham&theme=react"  />
-  
+   <th>
+         <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sjxsubham&theme=react&langs_count=10&hide=HTML&layout=compact"  />
+   </th>
+   <th>
+
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sjxsubham&theme=react" />
   
 
-   </tr>
+   </th>
   
   </thead>
   </table>
@@ -76,7 +78,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&theme=tokyonight&style=color: #f2cf4a&text-decoration" alt="sjxsubham" /> </p>
 
 ![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1925" />
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> -->
 
