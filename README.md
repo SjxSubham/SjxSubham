@@ -55,7 +55,13 @@
   <th>
     <img width=325 align="center" src="https://streak-stats.demolab.com/?user=sjxsubham&theme=react" href="https://git.io/streak-stats" alt="contribution" />
   </th>
-   
+   <tr>
+         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sjxsubham&theme=react"  />
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sjxsubham&theme=react" />
+  
+
+   </tr>
   
   </thead>
   </table>
