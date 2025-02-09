@@ -55,6 +55,8 @@
   <th>
     <img width=325 align="center" src="https://streak-stats.demolab.com/?user=sjxsubham&theme=react" href="https://git.io/streak-stats" alt="contribution" />
   </th>
+   <tr>
+
    <th>
          <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sjxsubham&theme=react&langs_count=10&hide=HTML&layout=compact"  />
    </th>
@@ -64,7 +66,7 @@
   
 
    </th>
-  
+  </tr>
   </thead>
   </table>
    
