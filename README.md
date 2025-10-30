@@ -2,21 +2,26 @@
 <h1 align="center">Hi folks <img align="center" src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Sjx" width="50" height="50"/>, I'm Subham Mondal</h1>
 <a href="https://sjxsubham.github.io/Slider/" align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Outfit&duration=3000&pause=10000&color=50dfdf&width=500&lines=&nbsp;&nbsp;&nbsp;A+passionate+software+programming+learner+from+India;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" alt="Typing SVG" loop autoplay style="height:50px;width:100%;align-items:center;"/></a>
 <!-- <h3 align="center">A passionate software programming learner from India</h3> -->
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 <img align="right" alt="Coding" width="400" style="float: right margin-right: 10px" src="https://i.pinimg.com/originals/18/6d/57/186d57a5e8a1aa9783640e1660978496.jpg">
 <!-- GitAds-Verify: LQZ9NE5A4NYGL3NG5PP4K177XKIW16KF -->
 <th>
   
-- 🔭 I’m currently working on **Building My Own Leetcode**
+###  About Me
 
-- 🌱 I’m currently learning **Non-Linier DSA -- DP**, **Typescript** , **Next JS**
-
-- 💬 Ask me about **C, C++, Javascript, Python**
-
-- 📫 How to reach me **sjxsubham@gmail.com**
-
-- ⚡ Fun fact **I Prefer Leetcode >> any other CP Platform**
+```typescript
+const subham = {
+    location: "India 🇮🇳",
+    currentFocus: "Building My Own LeetCode Platform",
+    learning: ["TypeScript", "Next.js", "Advanced DSA & DP"],
+    expertise: ["C", "C++", "JavaScript", "Python"],
+    passion: "LeetCode >> Any Other CP Platform",
+    funFact: "I debug with console.log() and I'm proud of it! 😎",
+    contactMe: "sjxsubham@gmail.com"
+};
+```
+<!-- - ⚡ Fun fact **I Prefer Leetcode >> any other CP Platform** -->
 </th>
 
 <td></td>
@@ -32,12 +37,13 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/> </a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> </a><a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> </p></p></td>
 
 
-## Open Source 
+### Open Source 
 [![An image of @sjxsubham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sjxsubham)](https://holopin.io/@sjxsubham)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1925" />
+<h3>Github Stats</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1925" />
 
-### Github Stats
 
 
 
@@ -49,7 +55,7 @@
   ![SjxSubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjxsubham&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10)  
   
   <th>
-  <img width=330 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxsubham&hide=HTML&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=330 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjxsubham&hide=HTML&langs_count=12&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
     
   </th>
   <th>
@@ -67,12 +73,21 @@
 
    </th>
   </tr>
+  <tr>
+    <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjxsubham&theme=react" width="60%" />
+
+</div>
+    
+  </tr>
   </thead>
   </table>
    
   </div>
   
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1925">
 
 
 
@@ -81,9 +96,10 @@
 
 ![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
 
+<div align="center">
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1925" />
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjxsubham&theme=tokyonight" alt="sjxsubham" /></a> </p> -->
 
 <!-- ### <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&color=0e75b6&style=flat" alt="sjxsubham" /> </p>  --!>
