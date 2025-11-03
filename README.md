@@ -10,15 +10,15 @@
   
 ###  About Me
 
-```typescript
+```jsx
 const subham = {
     location: "India 🇮🇳",
     currentFocus: "Building My Own LeetCode Platform",
     learning: ["TypeScript", "Next.js", "Advanced DSA & DP"],
     expertise: ["C", "C++", "JavaScript", "Python"],
-    passion: "LeetCode >> Any Other CP Platform",
-    funFact: "I debug with console.log() and I'm proud of it! 😎",
-    contactMe: "sjxsubham@gmail.com"
+    funfact: LeetCode >> Any Other CP Platform,
+    >>>: "I debug with console.log() and I'm proud of it! 😎",
+    contactMe: `sjxsubham@gmail.com`
 };
 ```
 <!-- - ⚡ Fun fact **I Prefer Leetcode >> any other CP Platform** -->
