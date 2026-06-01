@@ -94,7 +94,7 @@ const subham = {
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sjxsubham&label=Profile%20views&theme=tokyonight&style=color: #f2cf4a&text-decoration" alt="sjxsubham" /> </p>
 
-![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=282C35)
+![SjxSubham's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sjxsubham&theme=react&bg_color=0d0d0d&color=00e5ff&line=a78bfa&point=ffffff&area=true&area_color=302b63&hide_border=true)
 
 <div align="center">
 
